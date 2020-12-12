@@ -76,3 +76,8 @@ CREATE TABLE replies (
   post_number int(11) NOT NULL,
   PRIMARY KEY (reply_id)
 );
+```
+
+*NOTE: Your database will need to be tailored to suit your needs and preference. 
+
+* The file "connect.php" will also need to be edited to reflect your database's credentials. 
