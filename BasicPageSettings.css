@@ -1,0 +1,222 @@
+		#ChangePersonalInfo {
+		background-color: WhiteSmoke;
+		height: 100%;
+		width: 100%;
+		border: none;
+		text-align: center;
+		color: black;
+		}
+		#CourtesySearch {
+		text-align: center;
+		border: 0px solid black;
+		}
+		#div {
+		height: 100%;
+		width: 98%;
+		border: 8px solid LightSlateGray;
+		}
+		#first {
+		background-color: LightSlateGray;
+		background-image: url("http://localhost/keeper/collage2.jpg");
+		background-size: cover;
+		background-attachment: scroll;
+		background-repeat: no-repeat;
+		background-position: center center;
+		color: Black;
+		font-size: 150%;
+		font-family: "Times New Roman", Helvetica, serif;
+		text-align: center;
+		height: 150%;
+		width: 98%;
+		}
+		#Forum_Posts {
+		margin-left: auto;
+		margin-right: auto;
+		height: 100%;
+		width: 98%;
+		background-color: LightGray;
+		border: 6px solid Gray;
+		text-align: center;
+		}
+		#JoinUsForm {
+		background-color: WhiteSmoke;
+		height: 100%;
+		width: 100%;
+		border: none;
+		text-align: center;
+		color: black;
+		}
+		#LoggedIn {
+		position: absolute;
+		height: 100%;
+		width: 100%;
+		background-color: LightSlateGray;
+		border: none;
+		text-align: center;
+		}
+		#LogInForm {
+		background-color: WhiteSmoke;
+		height: 100%;
+		width: 100%;
+		border: none;
+		text-align: center;
+		color: black;
+		}
+		#LogOut {
+		height: 100%;
+		width: 50%;
+		border: none;
+		text-align: center;
+		color: black;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		}
+		#navbar {
+		background-color: Gainsboro;
+		height: 100%;
+		width: 18%;
+		border: 3px solid LightSlateGray;
+		text-align: left;
+		color: Black;
+		float: left;
+		}
+		#Notifications {
+		background-color: Azure;
+		height: 100%;
+		width: 30%;
+		float: right;
+		border: none;
+		padding: 10px;
+		margin: 10px;
+		text-align: left;
+		color: Black;
+		}
+		#OnePost{
+		background-color: Gainsboro;
+		border: 5px solid LightSlateGray;
+		padding: 10px;
+		margin: 10px;
+		color: Black;
+		margin-left: auto;
+		margin-right: auto;
+		width: 50%;
+		font-family: Helvetica, "Comic Sans", sans-serif;
+		height: 100%;
+		overflow: auto;		
+		}
+		#PersonalInfo {
+		background-color: Azure;
+		height: 100%;
+		width: 30%;
+		float: left;
+		border: none;
+		padding: 10px;
+		margin: 10px;
+		text-align: left;
+		color: Black;
+		}
+		#PleaseInclude {
+		height: 75%;
+		width: 100%;
+		border: none;
+		text-align: center;
+		font-family: "Comic Sans", Helvetica, sans-serif;
+		font-weight: bold;
+		font-style: italic;
+		}
+		#Reply {
+		background-color: Gainsboro;
+		border: 3px solid WhiteSmoke;
+		padding: 10px;
+		margin: 10px;
+		color: Black;
+		margin-left: auto;
+		margin-right: auto;
+		width: 50%;
+		font-family: Helvetica, "Comic Sans", sans-serif;
+		overflow: auto;
+		}
+		#searchbar {
+		text-align: center;
+		background-color: LightSlateGray;
+		font-family: "Comic Sans", Helvetica, sans-serif;
+		font-size: 75%;
+		margin-left: auto;
+		margin-right: auto;
+		background-color: Gainsboro;
+		height: 100%;
+		width: 25%;
+		}
+		#search_fields {
+		margin-left: auto;
+		margin-right: auto;
+		background-color: Gainsboro;
+		width: 50%;
+		height: 100%;
+		font-family: Helvetica, "Comic Sans", sans-serif;
+		color: black;
+		border: 6px solid SlateGray;
+		}
+		#second {
+		color: WhiteSmoke;
+		font-size: 90%;
+		font-family: "Times New Roman", Helvetica, serif;
+		text-align: center;
+		}
+		#StupidThing {
+		background-color: Gainsboro;
+		border: none;
+		color: Black;
+		width: 100%;
+		font-family: Helvetica, "Comic Sans", sans-serif;
+		height: 100%;
+		overflow: auto;
+		}
+		#table {
+		font-family: "Times New Roman", Helvetica, serif;
+		color: black;
+		font-size: 100%;
+		text-align: center;
+		background-color:LightSlateGray;
+		}		
+		#TheActualThreads {
+		background-color: WhiteSmoke;
+		height: 90%;
+		width: 80%;
+		border: 6px solid LightSlateGray;
+		text-align: center;
+		color: Black;
+		float: right;
+		overflow: auto;
+		}
+		#ThreadForm {
+		background-color: Gainsboro;
+		height: 100%;
+		width: 75%;
+		border: none;
+		padding: 10px;
+		margin: 10px;
+		text-align: left;
+		color: Black;
+		margin-left: auto;
+		margin-right: auto;
+		overflow: auto;
+		}
+		
+		
+		h3 {
+		text-align: center;
+		font-size: 150%;
+		font-family: Helvetica, "Comic Sans", sans-serif;
+		color: black;
+		}
+		body {
+		background-color: LightGray;
+		}
+		p {
+		text-align: left;
+		font-size: 100%;
+		font-family: Helvetica, "Comic Sans", sans-serif;
+		color: black;
+		} 

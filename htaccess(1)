@@ -1,0 +1,35 @@
+RewriteEngine On
+RewriteBase /
+
+# Protect the htaccess file
+# Protect the htaccess file
+<Files 'Display Threads.php'>
+Order Allow,Deny
+Deny from all
+</Files>
+
+<Files 'C_Bounce.php'>
+Order Allow,Deny
+Deny from all
+</Files>
+
+<Files 'S_Bounce.php'>
+Order Allow,Deny
+Deny from all
+</Files>
+
+<Files 'Join_Us.php'>
+Order Allow,Deny
+Deny from all
+</Files>
+
+<Files 'New_Reply.php'>
+Order Allow,Deny
+Deny from all
+</Files>
+
+DirectoryIndex Home.php 
+
+ErrorDocument 403 /403.shtml
+ErrorDocument 404 /404.shtml
+ErrorDocument 500 /500.shtml
