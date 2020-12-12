@@ -2,7 +2,7 @@
 $server = "HOSTNAME"; 
 $username   = "USERNAME"; /*add in what needs to be added*/
 $password   = "PASSWORD"; //what goes here is my stuff
-$database   = "forum"; //for this local engine
+$database   = "forumName"; //for this local engine
  
  //Create connection
  $conn = mysqli_connect($server, $username, $password, $database);
