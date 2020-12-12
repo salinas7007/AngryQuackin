@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="nl" lang="nl">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+   <meta name="description" content="A place for students to learn what the heck is actually going on, specifically in community colleges in the Houston, TX area.">
+<meta name="keywords" content="Lone Star College, Houston Community College, Houston, Texas, college">
+<meta name="author" content="Liz">
+	<title>Error: Internal Server Error</title>
+	<style>
+	
+	#first {
+		background-color: LightSlateGray;
+		background-image: url("https://s-media-cache-ak0.pinimg.com/736x/87/08/80/870880fe6ff0df75bb79a4864bb01780.jpg");
+		background-size: cover;
+		background-attachment: scroll;
+		background-repeat: no-repeat;
+		background-position: center center;
+		color: Black;
+		font-size: 150%;
+		font-family: "Times New Roman", Helvetica, serif;
+		text-align: center;
+		height: 150%;
+		width: 98%;
+		}
+		
+		#second {
+		color: WhiteSmoke;
+		font-size: 90%;
+		font-family: "Times New Roman", Helvetica, serif;
+		text-align: center;
+		}
+		
+		#table {
+		font-family: "Times New Roman", Helvetica, serif;
+		color: black;
+		font-size: 100%;
+		text-align: center;
+		background-color:LightSlateGray;
+		}	
+		
+		#searchbar {
+		text-align: center;
+		background-color: LightSlateGray;
+		font-family: "Comic Sans", Helvetica, sans-serif;
+		font-size: 75%;
+		margin-left: auto;
+		margin-right: auto;
+		background-color: Gainsboro;
+		height: 100%;
+		width: 25%;
+		}
+		h3 {
+		text-align: center;
+		font-size: 150%;
+		font-family: Helvetica, "Comic Sans", sans-serif;
+		color: black;
+		}
+		body {
+		background-color: LightGray;
+		}
+		p {
+		text-align: center;
+		font-size: 100%;
+		font-family: Helvetica, "Comic Sans", sans-serif;
+		color: black;
+		} 
+		
+	
+	</style>
+</head>
+
+<body>
+
+<div id="first">
+	<h1>Angry Quackin</h1>
+	<div id="second">
+	<h4>A place for students to learn what's actually going on.</h4>
+	</div>
+	<div id="table">
+		<table align="center" width=100% height=100% border=2>
+	   <tr>
+		<td><a href="Home.php">Home</a></td>
+		<td><a href="Policies.php">Policies</a></td>
+		<td><a href="About%20Us.php">About Us</a></td>
+		<td><a href="My_Account.php">My Account</a></td>
+		<td><a href="Threads.php">Threads</a></td>
+		<td><a href="Join%20Us.php">Join Us!</td>
+		<td><a href="New Thread.php">New Thread</a></td>
+		<td><a href="Log%20In_Log%20Out.php">Log In/Log Out</a></td>
+	   </tr>
+	</table>
+		
+	<div id="searchbar">
+	   <a href="Search Forum Posts.php">SEARCH FORUM POSTS</a>
+</div>
+</div>
+</div>
+	<h3>Error 500</h3>
+	<p>Internal Server Error
+	<br><br>
+	Sidney Jane has quit and left to join whatever the computer version of the French Foreign Legion is. 
+	<br><br>
+	We're working to fix this at the moment, but luring back a rogue Sidney Jane is not easy. Patience is appreciated.
+	</p>
+</body>
+</html>
